@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoSwipe</string>
+    <string name="explanation_game">Can you guess if these images are taken in Europe?
+    Swipe left for Europe, right for not Europe.</string>
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it right!</string>
+</resources>
